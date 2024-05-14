@@ -76,5 +76,11 @@ export const robots = [
       name: 'Reddy',
       username: 'Taj',
       email: 'callsign@taj.com'
+    },
+    {
+      id: 14,
+      name: 'Kuber',
+      username: 'Laxmi',
+      email: 'kuber@laxmi.com'
     }
   ];
